@@ -1,3 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -10,4 +16,24 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+/* 
+.name-title{
+  font-family: 'Abel', sans-serif;
+} */
+
+.text-stroke{
+  -webkit-text-stroke: 1px #2563EB;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+}
+.text-vertical{
+  writing-mode: vertical-lr;
+  transform: rotate(180deg);
+}
+.text-stroke-title{
+  -webkit-text-stroke: 1px #365569;
+    -webkit-text-fill-color: transparent;
+    font-weight: bolder;
+
 }
