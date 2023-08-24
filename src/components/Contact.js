@@ -2,7 +2,7 @@ import React, { useContext } from 'react';
 import { RefContext } from '../context/ScrollRefContext';
 
 const Contact = () => {
-	const {contactRef} = useContext(RefContext)
+	const { contactRef } = useContext(RefContext);
 	return (
 		<section ref={contactRef} class=''>
 			<div class='mx-auto max-w-screen-xl px-4 py-16 sm:px-6 lg:px-8'>
@@ -15,7 +15,7 @@ const Contact = () => {
 
 						<div class='mt-8'>
 							<a href='' class='text-2xl font-bold text-blue-600'>
-								+8801830868259,+971501934037
+								+8801830868259
 							</a>
 
 							<p class='mt-2 not-italic'>
