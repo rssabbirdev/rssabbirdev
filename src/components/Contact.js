@@ -15,7 +15,7 @@ const Contact = () => {
 
 						<div class='mt-8'>
 							<a href='' class='text-2xl font-bold text-blue-600'>
-								+971501934037
+								+8801830868259,+971501934037
 							</a>
 
 							<p class='mt-2 not-italic'>

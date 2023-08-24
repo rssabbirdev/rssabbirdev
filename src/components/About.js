@@ -23,30 +23,30 @@ const About = () => {
 						Frontend Web Developer || Expert on React
 					</p>
 					<p>Email: sabbir.hosen.rahat@gmail.com</p>
-					<p>Phone: +971501934037</p>
-					<p>Current Location: Fujairah, UAE</p>
+					<p>Phone: +8801830868259, +971507463037</p>
+					<p>Current Location: Chouddagram, Comilla</p>
 				</div>
 				<div className='flex gap-5 justify-center md:justify-start'>
 					<a
-						href='https://www.facebook.com/rs.sabbir.2'
+						href='https://www.facebook.com/rssabbirdev'
 						className='text-2xl hover:text-blue-700 cursor-pointer'
 					>
 						<BsFacebook />
 					</a>
 					<a
-						href='https://twitter.com/rssabbir_dev'
+						href='https://twitter.com/rssabbirdev'
 						className='text-2xl hover:text-blue-400 cursor-pointer'
 					>
 						<BsTwitter />
 					</a>
 					<a
-						href='https://www.linkedin.com/in/rssabbir-dev/'
+						href='https://www.linkedin.com/in/rssabbirdev/'
 						className='text-2xl hover:text-blue-800 cursor-pointer'
 					>
 						<BsLinkedin />
 					</a>
 					<a
-						href='https://github.com/rssabbir-dev'
+						href='https://github.com/rssabbirdev'
 						className='text-2xl cursor-pointer'
 					>
 						<BsGithub />
